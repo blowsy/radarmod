@@ -1,0 +1,16 @@
+[
+{
+  "modid": "radarmod",
+  "name": "radar mod",
+  "description": "radar",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["blowsy"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
