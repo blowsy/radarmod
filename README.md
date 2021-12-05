@@ -1,6 +1,6 @@
 # radarmod
 
-tutorial/showcase: https://www.youtube.com/watch?v=DCo2Sbu1C8A // change later
+tutorial/showcase: https://www.youtube.com/watch?v=DCo2Sbu1C8A
 
 > commands
 ```
