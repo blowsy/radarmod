@@ -1,4 +1,4 @@
-# radarmod
+# radar mod
 
 displays a square radar showing nearby players relative to the users position and rotation.
 
